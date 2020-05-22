@@ -1,5 +1,7 @@
 # SangamHack
 
+Data could not be uploaded since it was proprietary.
+
 ## Team : Alpha AI
 
 ### Data pre-processing:
